@@ -1,0 +1,12 @@
+.num{
+    height: 100px;
+    width: 100px;
+}
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    padding: 1px;
+}
